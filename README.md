@@ -83,7 +83,7 @@ sudo rmmod monitor
 
 ### SS3 – Logging system
 
-![SS3](SCREENSHOTS/LOGS.png)
+![SS3](SCREENSHOTS/Logs.png)
 
 ### SS4 – CLI and IPC
 
